@@ -6,7 +6,7 @@ const footerLinks = [
   { label: "About", href: "#" },
   { label: "Research Journal", href: "#journal" },
   { label: "Materials Library", href: "#materials" },
-  { label: "Contact", href: "#" },
+  { label: "Contact", href: "#contact" },
 ];
 
 export default function Footer() {

@@ -8,6 +8,7 @@ import HistoryTimeline from "@/components/sections/HistoryTimeline";
 import Craftsmanship from "@/components/sections/Craftsmanship";
 import Philosophy from "@/components/sections/Philosophy";
 import ResearchJournal from "@/components/sections/ResearchJournal";
+import ContactForm from "@/components/sections/ContactForm";
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
         <Craftsmanship />
         <Philosophy />
         <ResearchJournal />
+        <ContactForm />
       </main>
       <Footer />
     </>
